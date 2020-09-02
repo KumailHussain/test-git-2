@@ -1,2 +1,1 @@
-# test-git-2
-test git
+Wed will see how git works
